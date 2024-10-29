@@ -3,9 +3,9 @@
 title: "Ali Rababah"
 name: "Jekyll Website for Ali"
 email: 
-url: "https://[Bubbah-jpg].github.io"
-baseurl: "/[Ali-Rababah-Profile]"
-repository: "[Bubbah-jpg]/[Ali-Rababah-Profile]"
+url: "https://Bubbah-jpg.github.io"
+baseurl: "/Ali-Rababah-Profile"
+repository: "Bubbah-jpg/Ali-Rababah-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
